@@ -1,6 +1,6 @@
 # Go-ActivityPub
 
-Go ActivityPub is a suite of packages to help with creating ActivityPub applications in the Go language.
+A suite of packages to help in creating ActivityPub applications using the Go programming language.
 
 Contact on the mailing list: [~mariusor/activitypub-go@lists.sr.ht](mailto:~mariusor/activitypub-go@lists.sr.ht)
 
