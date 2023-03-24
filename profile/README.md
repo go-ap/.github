@@ -2,6 +2,8 @@
 
 A suite of packages to help in creating ActivityPub applications using the Go programming language.
 
-Contact on the mailing list: [~mariusor/activitypub-go@lists.sr.ht](mailto:~mariusor/activitypub-go@lists.sr.ht)
+For discussions about the projects you can contact the discussions mailing list: [~mariusor/go-activitypub-discuss@lists.sr.ht](mailto:~mariusor/go-activitypub-discuss@lists.sr.ht)
+
+For patches and bug reports please use the dev mailing list: [~mariusor/go-activitypub-dev@lists.sr.ht](mailto:~mariusor/go-activitypub-dev@lists.sr.ht)
 
 Expanded [documentation](https://man.sr.ht/~mariusor/go-activitypub/go-ap/index.md)
