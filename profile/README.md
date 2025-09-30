@@ -1,6 +1,12 @@
 # Go-ActivityPub
 
-A suite of modules to help in creating ActivityPub applications in the Go programming language.
+GoActivityPub provides a batteries included suite of modules for making the creation of ActivityPub applications easier for Go developers.
+
+It was designed to offer a middle ground between the highly dynamic nature of the ActivityPub vocabulary and the constraints of the Go programming language, with emphasis on strong typing, minimal resource footprint and very little "magic".
+
+It has distinct components for the ActivityPub vocabulary and processing of activities, an HTTP client which supports authorizing to servers with both ActivityPub specific and traditional methods, multiple storage backends, and other low level helper modules.
+
+___
 
 For discussions about the projects you can contact the discussions mailing list: [~mariusor/go-activitypub-discuss@lists.sr.ht](mailto:~mariusor/go-activitypub-discuss@lists.sr.ht)
 
