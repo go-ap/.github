@@ -2,9 +2,9 @@
 
 GoActivityPub provides a batteries included suite of modules for making the creation of ActivityPub applications easier for Go developers.
 
-It was designed to offer a middle ground between the highly dynamic nature of the ActivityPub vocabulary and the constraints of the Go programming language, with emphasis on strong typing, minimal resource footprint and very little "magic".
+It was designed to offer a middle ground between the highly dynamic nature of the Activity-Vocabulary and the constraints of the Go programming language, with emphasis on strong typing, minimal resource footprint and very little "magic".
 
-It has distinct components for the ActivityPub vocabulary and processing of activities, an HTTP client which supports authorizing to servers with both ActivityPub specific and traditional methods, multiple storage backends, and other low level helper modules.
+It has distinct components for the vocabulary types and processing of activities, an HTTP client which supports authorizing to servers with both ActivityPub specific and traditional methods, multiple storage backends, and other low level helper modules.
 
 ___
 
