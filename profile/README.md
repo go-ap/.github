@@ -1,5 +1,7 @@
 # Go-ActivityPub
 
+![GoActivityPub Logo](https://go-activitypub.federated.id/img/logo.svg)
+
 GoActivityPub provides a batteries included suite of modules for making the creation of ActivityPub applications easier for Go developers.
 
 It was designed to offer a middle ground between the highly dynamic nature of the Activity-Vocabulary and the constraints of the Go programming language, with emphasis on strong typing, minimal resource footprint and very little "magic".
