@@ -1,6 +1,6 @@
 # Go-ActivityPub
 
-![GoActivityPub Logo](https://go-activitypub.federated.id/img/logo.svg)
+![GoActivityPub Logo](https://go-activitypub.federated.id/lib/img/logo.svg)
 
 GoActivityPub provides a batteries included suite of modules for making the creation of ActivityPub applications easier for Go developers.
 
